@@ -1,3 +1,3 @@
 read name
-mkdir $name
-cp ../template.cpp ./$name/main.cpp
+mkdir ${name}_t
+cp ../template.cpp ./${name}_t/main.cpp
