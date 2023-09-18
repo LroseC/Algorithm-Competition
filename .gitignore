@@ -34,4 +34,4 @@
 *.in
 *.out
 *.ans
-tmp.*
+tmp*
